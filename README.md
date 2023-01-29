@@ -12,6 +12,6 @@
 - 🌱 I’m currently learning Swift and Google Firebase.
 - 💬 Ask me about game design, and other coding related topics. Love to learn new things!
 - ⚡ Fun fact: I like playing games to the point I find ways to make it competitive.
-### I enjoy bringing with a smile to cheer others! :)
+### I enjoy cheering others with a good laugh and bringing a smile wherever I go :)
 
 ![giphy](https://user-images.githubusercontent.com/123771828/215251431-0732756a-a770-4058-8eab-14eead04e618.gif)
