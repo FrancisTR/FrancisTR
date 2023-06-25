@@ -24,15 +24,16 @@
 
 
 ## Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" /></p>
+<p align="left">
+<img width="329px" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" /></p>
+<img width="369px" src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&" alt="francistr" /></p>
+<img width="369px" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&" alt="francistr" />
+</p>
 
 
 
 
 ## Programmer Meme
-
 <div align="left"><img width="40%" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
