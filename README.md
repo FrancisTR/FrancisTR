@@ -25,11 +25,11 @@
 
 ## Github Stats
 <p align="left">
-<img width="329px" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
+<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
 
-<img width="369px" src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" />
+<img width="333px" src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" />
 
-<img width="369px" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&" alt="francistr" />
+<img width="354px" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&" alt="francistr" />
 </p>
 
 
