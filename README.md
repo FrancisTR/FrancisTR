@@ -24,16 +24,20 @@
 
 
 ## Github Stats
-<p align="center">
-<img width="410px" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="francistr" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" />
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr" alt="francistr" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&" alt="francistr" />
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
 </p>
 
 
 
 
 ## Programmer Meme
-<div align="left"><img width="400px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
+<div align="left"><img width="369px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
