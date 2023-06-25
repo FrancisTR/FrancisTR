@@ -36,4 +36,4 @@
 
 
 ## Programmer Meme
-<div align="left"><img width="40%" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
+<div align="left"><img width="400px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
