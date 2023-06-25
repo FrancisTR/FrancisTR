@@ -25,7 +25,7 @@
 
 ## Github Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
+<img width="418px" src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact" alt="francistr" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en" alt="francistr" />
 
