@@ -2,7 +2,9 @@
 
 <div align="center"><img width="69%" src="https://user-images.githubusercontent.com/123771828/232997229-03aa5999-dbc0-421e-a284-1608d31041bb.gif" /></div>
 
-<h3 align="center">Nice to meet you!</h3>
+<h2 align="center">Nice to meet you!</h2>
+
+<p align="center"> <img width="100px" src="https://komarev.com/ghpvc/?username=francistr&label=Visitors&color=FFA500&style=flat" alt="francistr" /> </p>
 
 
 
