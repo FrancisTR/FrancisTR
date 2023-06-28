@@ -4,7 +4,7 @@
 
 <h2 align="center">Nice to meet you!</h2>
 
-<p align="center"> <img width="100px" src="https://komarev.com/ghpvc/?username=francistr&label=Visitors&color=FFA500&style=flat" alt="francistr" /> </p>
+
 
 
 
