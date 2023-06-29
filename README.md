@@ -2,7 +2,7 @@
 
 <div align="center"><img width="69%" src="https://user-images.githubusercontent.com/123771828/232997229-03aa5999-dbc0-421e-a284-1608d31041bb.gif" /></div>
 
-<h2 align="center">Nice to meet you!</h2>
+<h3 align="center">Nice to meet you!</h3>
 
 
 
@@ -19,8 +19,25 @@
 
 
 
+
+
 ## Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/9ffb89cd-1bdf-418a-ac24-4540d6902014" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/f2821e55-854c-4cf7-b455-2df74f161985" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e2b0bfaa-79e2-4363-9861-7c0e71636ae0" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/ed11ce47-1925-4085-9cdb-bc37bb22d3ce" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/3ad2e079-89ac-4e91-9daa-61b565ead8c1" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/4781ec80-a00e-4447-a935-5c0bae86ddfd" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/ca54f8ad-375e-4832-9709-47f5e8e6d8e6" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e880d8cf-4682-4b0f-beb8-209f4dde6d25" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/0af0c572-48e9-4c46-aa66-217ffd8c37c1" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/98bc30b2-0322-483e-bf09-ec86f02e0b6e" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/6994a6f7-a637-48b6-8a60-d3b6a8e7ac99" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/7ec0b8b6-47fa-4f90-a446-73f253fe5e37" width="50px" height="50px" />
+  </p>
+
+
 
 
 
@@ -41,5 +58,7 @@
 
 
 
-## Programmer Meme
-<div align="left"><img width="369px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/49ecead1-3019-490a-9ff5-e874b2c63ca5" /></div>
+## Leetcode Stats
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/FrancisTR" alt="francistr" />
+</p>
