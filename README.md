@@ -30,7 +30,7 @@
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/3ad2e079-89ac-4e91-9daa-61b565ead8c1" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/4781ec80-a00e-4447-a935-5c0bae86ddfd" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/ca54f8ad-375e-4832-9709-47f5e8e6d8e6" width="50px" height="50px" />
-  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e880d8cf-4682-4b0f-beb8-209f4dde6d25" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/76784eca-2d10-4b96-b252-5a45fe3ac044" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/0af0c572-48e9-4c46-aa66-217ffd8c37c1" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/98bc30b2-0322-483e-bf09-ec86f02e0b6e" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/6994a6f7-a637-48b6-8a60-d3b6a8e7ac99" width="50px" height="50px" />
