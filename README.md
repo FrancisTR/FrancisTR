@@ -3,7 +3,7 @@
 <div align="center"><img width="69%" src="https://user-images.githubusercontent.com/123771828/232997229-03aa5999-dbc0-421e-a284-1608d31041bb.gif" /></div>
 
 <h3 align="center">Nice to meet you!</h3>
-<img align="right" width="450px" height="450px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e98625ba-30af-47d2-af14-755f6055ada7" alt="Cat" />
+<img align="right" width="50%" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e98625ba-30af-47d2-af14-755f6055ada7" alt="Cat" />
 
 
 
