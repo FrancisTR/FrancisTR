@@ -3,7 +3,7 @@
 <div align="center"><img width="69%" src="https://user-images.githubusercontent.com/123771828/232997229-03aa5999-dbc0-421e-a284-1608d31041bb.gif" /></div>
 
 <h3 align="center">Nice to meet you!</h3>
-
+<img align="right" width="450px" height="450px" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e98625ba-30af-47d2-af14-755f6055ada7" alt="Cat" />
 
 
 
@@ -48,15 +48,9 @@
 
 ## Github Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="francistr" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr" alt="francistr" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="francistr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr" alt="francistr" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
 </p>
 
 
