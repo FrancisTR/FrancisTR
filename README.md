@@ -22,7 +22,7 @@
 
 
 
-## Languages/Frameworks/Tools
+## Languages/Libraries/Frameworks/Tools
 <p align="left">
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/9ffb89cd-1bdf-418a-ac24-4540d6902014" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/f2821e55-854c-4cf7-b455-2df74f161985" width="50px" height="50px" />
