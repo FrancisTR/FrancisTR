@@ -41,6 +41,7 @@
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/4ac3c8cc-1a9b-4b7d-b9da-ec618f6784ab" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/98bc30b2-0322-483e-bf09-ec86f02e0b6e" width="50px" height="50px" />
   <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/f05c1d3a-dac8-452b-9691-2b6c051b67c5" width="50px" height="50px" />
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/8efd5ec8-8811-4e9c-b868-7105e1c4a63a" width="50px" height="50px" />
 </p>
 
 
