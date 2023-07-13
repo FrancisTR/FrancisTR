@@ -50,7 +50,7 @@
 
 
 ## Github Stats
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="francistr" />
   <img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr" alt="francistr" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
