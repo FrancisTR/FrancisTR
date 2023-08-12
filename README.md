@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Francis</h1>
+<h1 align="center">
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/0c236a54-1df5-427c-939d-e4919390367f" width="50px" height="50px" />
+  Hi 👋, I'm Francis
+  <img src="https://github.com/FrancisTR/FrancisTR/assets/123771828/0c236a54-1df5-427c-939d-e4919390367f" width="50px" height="50px" />
+</h1>
+
 
 <div align="center"><img width="69%" src="https://user-images.githubusercontent.com/123771828/232997229-03aa5999-dbc0-421e-a284-1608d31041bb.gif" /></div>
 
+
 <h3 align="center">Nice to meet you!</h3>
 <img align="right" width="40%" src="https://github.com/FrancisTR/FrancisTR/assets/123771828/e98625ba-30af-47d2-af14-755f6055ada7" alt="Cat" />
-
-
 
 
 
