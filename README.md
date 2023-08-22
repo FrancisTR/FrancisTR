@@ -59,11 +59,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr&rank_icon=github" alt="francistr" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
 </p>
-
-
-
-
-## Leetcode Stats
-<p align="left">
-  <img src="https://leetcard.jacoblin.cool/FrancisTR" alt="francistr" />
-</p>
