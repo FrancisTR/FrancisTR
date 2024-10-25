@@ -51,8 +51,25 @@
 
 
 ## Github Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr" alt="francistr" />
-  <img src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr&rank_icon=github" alt="francistr" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr" alt="francistr" />
-</p>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img alt="TopLang"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=francistr&show_icons=true&locale=en&layout=compact&theme=codeSTACKr"
+            width="340" />
+          <img alt="Stats"
+            src="https://github-readme-stats.vercel.app/api?username=francistr&show_icons=true&locale=en&theme=codeSTACKr&rank_icon=github"
+            width="447" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr"
+            width="100%" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
