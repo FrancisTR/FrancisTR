@@ -17,7 +17,7 @@
 ## About
 - 🔭 I’m currently working on a **Godot game for the Sandboa Team!**
 
-- 🌱 I’m currently learning **Salesforce, and Web Development!**
+- 🌱 I’m currently learning **Machine Learning Concepts!**
 
 - 👯 I’m looking to collaborate on **Open Source Projects!**
 
