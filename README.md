@@ -64,12 +64,6 @@
             width="447" />
         </td>
       </tr>
-      <tr>
-        <td>
-          <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=francistr&theme=codeSTACKr"
-            width="100%" />
-        </td>
-      </tr>
     </tbody>
   </table>
 </div>
